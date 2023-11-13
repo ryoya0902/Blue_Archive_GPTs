@@ -1,2 +1,4 @@
 ## Blue_Archive_GPTs
 ### [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
+
+### [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
