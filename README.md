@@ -16,3 +16,5 @@
 ### [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
 
 ### [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
+
+### [黒崎コユキ](https://chat.openai.com/g/g-7P9Hj2yCe-hei-qi-koyuki)
