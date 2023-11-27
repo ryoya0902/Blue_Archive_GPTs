@@ -10,3 +10,5 @@
 ### [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
 
 ### [飛鳥馬トキ](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
+
+### [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
