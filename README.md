@@ -18,3 +18,5 @@
 ### [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
 
 ### [黒崎コユキ](https://chat.openai.com/g/g-7P9Hj2yCe-hei-qi-koyuki)
+
+### [天童アリス](https://chat.openai.com/g/g-WTrM167Sz-tian-tong-arisu)
