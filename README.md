@@ -12,3 +12,5 @@
 ### [飛鳥馬トキ](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 
 ### [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
+
+### [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
