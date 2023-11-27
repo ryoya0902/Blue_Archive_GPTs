@@ -30,3 +30,5 @@
 ### [才羽ミドリ](https://chat.openai.com/g/g-kMIDdIlMc-cai-yu-midori)
 
 ### [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
+
+### [下江コハル](https://chat.openai.com/g/g-Km2wmW0Px-xia-jiang-koharu)
