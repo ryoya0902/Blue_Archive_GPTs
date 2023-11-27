@@ -28,3 +28,5 @@
 ### [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
 
 ### [才羽ミドリ](https://chat.openai.com/g/g-kMIDdIlMc-cai-yu-midori)
+
+### [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
