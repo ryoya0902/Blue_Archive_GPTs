@@ -6,3 +6,5 @@
 ### [花岡ユズ](https://chat.openai.com/g/g-EauHEQnl2-hua-gang-yuzu)
 
 ### [小鳥遊ホシノ](https://chat.openai.com/g/g-JxqrnLyXl-xiao-niao-you-hosino)
+
+### [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
