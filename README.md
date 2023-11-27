@@ -22,3 +22,5 @@
 ### [天童アリス](https://chat.openai.com/g/g-WTrM167Sz-tian-tong-arisu)
 
 ### [銀鏡イオリ](https://chat.openai.com/g/g-mthmtSed2-yin-jing-iori)
+
+### [黒見セリカ](https://chat.openai.com/g/g-hjQRz87Zv-hei-jian-serika)
