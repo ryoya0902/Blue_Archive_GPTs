@@ -24,3 +24,5 @@
 ### [銀鏡イオリ](https://chat.openai.com/g/g-mthmtSed2-yin-jing-iori)
 
 ### [黒見セリカ](https://chat.openai.com/g/g-hjQRz87Zv-hei-jian-serika)
+
+### [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
