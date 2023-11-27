@@ -14,3 +14,5 @@
 ### [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
 
 ### [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
+
+### [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
