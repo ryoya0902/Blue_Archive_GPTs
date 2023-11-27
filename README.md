@@ -8,3 +8,5 @@
 ### [小鳥遊ホシノ](https://chat.openai.com/g/g-JxqrnLyXl-xiao-niao-you-hosino)
 
 ### [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
+
+### [飛鳥馬トキ](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
