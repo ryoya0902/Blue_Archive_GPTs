@@ -26,3 +26,5 @@
 ### [黒見セリカ](https://chat.openai.com/g/g-hjQRz87Zv-hei-jian-serika)
 
 ### [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
+
+### [才羽ミドリ](https://chat.openai.com/g/g-kMIDdIlMc-cai-yu-midori)
