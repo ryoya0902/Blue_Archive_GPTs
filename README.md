@@ -1,5 +1,5 @@
 ## Blue_Archive_GPTs
-このリポジトリは、ブルーアーカイブの生徒のGPTをまとめたリポジトリです。
+このリポジトリは、ブルーアーカイブの生徒のGPTをまとめたリポジトリです。  
 各GPTはゲーム内のセリフをインストラクションとして与えています。
 ### 生徒
 - [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
