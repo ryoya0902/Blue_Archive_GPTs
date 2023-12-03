@@ -21,3 +21,4 @@
 - [下江コハル](https://chat.openai.com/g/g-Km2wmW0Px-xia-jiang-koharu)
 - [春原シュン（幼女）](https://chat.openai.com/g/g-PLvFWwkVC-chun-yuan-siyun)
 - [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
+- [伊落マリー](https://chat.openai.com/g/g-h65yt5S0w-yi-luo-mari)
