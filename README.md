@@ -24,3 +24,4 @@
 - [伊落マリー](https://chat.openai.com/g/g-h65yt5S0w-yi-luo-mari)
 - [阿慈谷ヒフミ](https://chat.openai.com/g/g-sHvwwXlD0-a-ci-gu-hihumi)
 - [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
+- [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
