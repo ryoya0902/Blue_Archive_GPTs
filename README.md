@@ -7,7 +7,7 @@
 - [花岡ユズ](https://chat.openai.com/g/g-EauHEQnl2-hua-gang-yuzu)
 - [小鳥遊ホシノ](https://chat.openai.com/g/g-JxqrnLyXl-xiao-niao-you-hosino)
 - [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
-- [飛鳥馬トキ](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
+- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 - [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
 - [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
 - [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
