@@ -26,3 +26,4 @@
 - [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
 - [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
 - [砂狼シロコ](https://chat.openai.com/g/g-KKR9gE6kW-sha-lang-siroko)
+- [浦和ハナコ](https://chat.openai.com/g/g-Kmh6ec7Ox-pu-he-hanako)
