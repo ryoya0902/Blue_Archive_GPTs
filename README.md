@@ -25,3 +25,4 @@
 - [阿慈谷ヒフミ](https://chat.openai.com/g/g-sHvwwXlD0-a-ci-gu-hihumi)
 - [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
 - [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
+- [砂狼シロコ](https://chat.openai.com/g/g-KKR9gE6kW-sha-lang-siroko)
