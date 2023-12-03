@@ -20,3 +20,4 @@
 - [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 - [下江コハル](https://chat.openai.com/g/g-Km2wmW0Px-xia-jiang-koharu)
 - [春原シュン（幼女）](https://chat.openai.com/g/g-PLvFWwkVC-chun-yuan-siyun)
+- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
