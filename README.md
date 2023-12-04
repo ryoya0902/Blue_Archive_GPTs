@@ -33,6 +33,7 @@
 - 百鬼夜行連合学院
 	- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
+ 	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
 - ミレニアムサイエンススクール
 	- [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
  	- [生塩ノア](https://chat.openai.com/g/g-2oN3hSxQb-sheng-yan-noa)
