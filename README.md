@@ -31,3 +31,4 @@
 - [杏山カズサ](https://chat.openai.com/g/g-bCIYCNpyf-xing-shan-kazusa)
 - [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
 - [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
+- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
