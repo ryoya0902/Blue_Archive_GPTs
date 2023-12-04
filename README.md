@@ -18,6 +18,7 @@
   	- [伊草ハルカ](https://chat.openai.com/g/g-VgtfgscSB-yi-cao-haruka)
 	- [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
  	- [愛清フウカ](https://chat.openai.com/g/g-2v0W0p8Gm-ai-qing-huuka)
+  	- [黒舘ハルナ](https://chat.openai.com/g/g-62hvYxUNv-hei-guan-haruna)
   	- [赤司ジュンコ](https://chat.openai.com/g/g-whwx2QAUY-chi-si-ziyunko)
 - 山海経高級中学校
 	- [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
