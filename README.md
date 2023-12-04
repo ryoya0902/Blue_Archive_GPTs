@@ -39,6 +39,7 @@
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
   	- [水羽ミモリ](https://chat.openai.com/g/g-VeoL718Qn-shui-yu-mimori)
+  	- [狐坂ワカモ](https://chat.openai.com/g/g-eHtK8lRkF-hu-ban-wakamo)
 - ミレニアムサイエンススクール
 	- [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
  	- [生塩ノア](https://chat.openai.com/g/g-2oN3hSxQb-sheng-yan-noa)
