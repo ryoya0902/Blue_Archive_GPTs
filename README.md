@@ -15,6 +15,7 @@
 	- [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
  	- [陸八魔アル](https://chat.openai.com/g/g-IT8AclQWg-lu-ba-mo-aru)
   	- [鬼方カヨコ](https://chat.openai.com/g/g-SWSkssXt2-gui-fang-kayoko)
+  	- [伊草ハルカ](https://chat.openai.com/g/g-VgtfgscSB-yi-cao-haruka)
 	- [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
 - 山海経高級中学校
 	- [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
