@@ -51,7 +51,7 @@
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
 	- [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
 - レッドウィンター連邦学園
-	-[連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
+	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
 - SRT特殊学園
     - [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
     - [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
