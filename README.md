@@ -27,3 +27,4 @@
 - [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
 - [砂狼シロコ](https://chat.openai.com/g/g-KKR9gE6kW-sha-lang-siroko)
 - [浦和ハナコ（水着）](https://chat.openai.com/g/g-Kmh6ec7Ox-pu-he-hanako)
+- [白州アズサ](https://chat.openai.com/g/g-pT7eY62W3-bai-zhou-azusa)
