@@ -34,6 +34,7 @@
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
 - ミレニアムサイエンススクール
 	- [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
+ 	- [生塩ノア](https://chat.openai.com/g/g-2oN3hSxQb-sheng-yan-noa)
 	- [黒崎コユキ](https://chat.openai.com/g/g-7P9Hj2yCe-hei-qi-koyuki)
 	- [花岡ユズ](https://chat.openai.com/g/g-EauHEQnl2-hua-gang-yuzu)
 	- [天童アリス](https://chat.openai.com/g/g-WTrM167Sz-tian-tong-arisu)
