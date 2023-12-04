@@ -10,6 +10,7 @@
 - ヴァルキューレ警察学校
 - ゲヘナ学園
 	- [棗イロハ](https://chat.openai.com/g/g-wv0MWaMJo-zao-iroha)
+ 	- [空崎ヒナ](https://chat.openai.com/g/g-1m9VDhb2s-kong-qi-hina)
 	- [銀鏡イオリ](https://chat.openai.com/g/g-mthmtSed2-yin-jing-iori)
 	- [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
 	- [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
