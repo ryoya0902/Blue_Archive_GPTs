@@ -17,6 +17,7 @@
   	- [鬼方カヨコ](https://chat.openai.com/g/g-SWSkssXt2-gui-fang-kayoko)
   	- [伊草ハルカ](https://chat.openai.com/g/g-VgtfgscSB-yi-cao-haruka)
 	- [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
+ 	- [愛清フウカ](https://chat.openai.com/g/g-2v0W0p8Gm-ai-qing-huuka)
 - 山海経高級中学校
 	- [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
 	- [春原シュン（幼女）](https://chat.openai.com/g/g-PLvFWwkVC-chun-yuan-siyun)
