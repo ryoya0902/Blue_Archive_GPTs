@@ -46,6 +46,7 @@
 	- [桑上カホ](https://chat.openai.com/g/g-wWkXHdIEP-sang-shang-kaho)
 	- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
+ 	- [大野ツクヨ](https://chat.openai.com/g/g-geqnK1si2-da-ye-tukuyo)
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
   	- [水羽ミモリ](https://chat.openai.com/g/g-VeoL718Qn-shui-yu-mimori)
   	- [狐坂ワカモ](https://chat.openai.com/g/g-eHtK8lRkF-hu-ban-wakamo)
