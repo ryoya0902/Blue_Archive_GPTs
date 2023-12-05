@@ -58,6 +58,7 @@
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
   	- [水羽ミモリ](https://chat.openai.com/g/g-VeoL718Qn-shui-yu-mimori)
   	- [勇美カエデ](https://chat.openai.com/g/g-Dv7JxAI3F-yong-mei-kaede)
+  	- [春日ツバキ](https://chat.openai.com/g/g-mFI4jChqw-chun-ri-tubaki)
   	- [狐坂ワカモ](https://chat.openai.com/g/g-eHtK8lRkF-hu-ban-wakamo)
 - ミレニアムサイエンススクール
 	- [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
