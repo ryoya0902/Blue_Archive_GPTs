@@ -50,6 +50,7 @@
  	- [大野ツクヨ](https://chat.openai.com/g/g-geqnK1si2-da-ye-tukuyo)
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
   	- [水羽ミモリ](https://chat.openai.com/g/g-VeoL718Qn-shui-yu-mimori)
+  	- [勇美カエデ](https://chat.openai.com/g/g-Dv7JxAI3F-yong-mei-kaede)
   	- [狐坂ワカモ](https://chat.openai.com/g/g-eHtK8lRkF-hu-ban-wakamo)
 - ミレニアムサイエンススクール
 	- [早瀬ユウカ](https://chat.openai.com/g/g-8MI3MJpOg-zao-lai-yuuka)
