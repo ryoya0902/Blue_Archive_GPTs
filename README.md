@@ -46,6 +46,7 @@
 	- [下江コハル](https://chat.openai.com/g/g-Km2wmW0Px-xia-jiang-koharu)
 	- [浦和ハナコ（水着）](https://chat.openai.com/g/g-Kmh6ec7Ox-pu-he-hanako)
  	- [古関ウイ](https://chat.openai.com/g/g-Ye06CxB2y-gu-guan-ui)
+  	- [円堂シミコ](https://chat.openai.com/g/g-TCe9ZeBcJ-yuan-tang-simiko)
   	- [蒼森ミネ](https://chat.openai.com/g/g-M4QoLtSo0-cang-sen-mine) 
   	- [朝顔ハナエ](https://chat.openai.com/g/g-Wy4mDlCAa-zhao-yan-hanae)
   	- [鷲見セリナ](https://chat.openai.com/g/g-T3XpNwPzb-jiu-jian-serina)
