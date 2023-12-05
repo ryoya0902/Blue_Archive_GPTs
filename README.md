@@ -62,6 +62,7 @@
 	- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
  	- [桐生キキョウ](https://chat.openai.com/g/g-dX9SmTHLy-tong-sheng-kikiyou)
  	- [河和シズコ](https://chat.openai.com/g/g-1sHLqhzPW-he-he-sizuko)
+  	- [朝比奈フィーナ](https://chat.openai.com/g/g-0pcywu7Dx-zhao-bi-nai-huina)
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
  	- [大野ツクヨ](https://chat.openai.com/g/g-geqnK1si2-da-ye-tukuyo)
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
