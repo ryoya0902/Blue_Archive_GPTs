@@ -32,6 +32,7 @@
   	- [獅子堂イズミ](https://chat.openai.com/g/g-PkDnhL72W-shi-zi-tang-izumi)
   	- [鰐渕アカリ](https://chat.openai.com/g/g-qRfepkELh-e-yuan-akari)
   	- [赤司ジュンコ](https://chat.openai.com/g/g-whwx2QAUY-chi-si-ziyunko)
+  	- [氷室セナ](https://chat.openai.com/g/g-AlBezWRjH-bing-shi-sena)
 - 山海経高級中学校
 	- [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
  	- [春原シュン](https://chat.openai.com/g/g-O0Gc13xMK-chun-yuan-siyun)
