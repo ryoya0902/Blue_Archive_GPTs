@@ -9,6 +9,7 @@
  	- [十六夜ノノミ](https://chat.openai.com/g/g-IFYA5Eq6L-shi-liu-ye-nonomi)
 - アリウス分校
 - ヴァルキューレ警察学校
+	- [合歓垣フブキ](https://chat.openai.com/g/g-Dmn2MIPCS-he-huan-yuan-hubuki) 
 - ゲヘナ学園
 	- [棗イロハ](https://chat.openai.com/g/g-wv0MWaMJo-zao-iroha)
  	- [空崎ヒナ](https://chat.openai.com/g/g-1m9VDhb2s-kong-qi-hina)
