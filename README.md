@@ -14,6 +14,7 @@
  	- [空崎ヒナ](https://chat.openai.com/g/g-1m9VDhb2s-kong-qi-hina)
 	- [銀鏡イオリ](https://chat.openai.com/g/g-mthmtSed2-yin-jing-iori)
 	- [天雨アコ](https://chat.openai.com/g/g-SihFblrMx-tian-yu-ako)
+ 	- [火宮チナツ](https://chat.openai.com/g/g-P4mpjfCr9-huo-gong-tinatu)
  	- [陸八魔アル](https://chat.openai.com/g/g-IT8AclQWg-lu-ba-mo-aru)
   	- [鬼方カヨコ](https://chat.openai.com/g/g-SWSkssXt2-gui-fang-kayoko)
   	- [伊草ハルカ](https://chat.openai.com/g/g-VgtfgscSB-yi-cao-haruka)
