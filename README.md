@@ -5,6 +5,7 @@
 - アビドス高等学校
 	- [小鳥遊ホシノ](https://chat.openai.com/g/g-JxqrnLyXl-xiao-niao-you-hosino)
 	- [砂狼シロコ](https://chat.openai.com/g/g-KKR9gE6kW-sha-lang-siroko)
+ 	- [奥空アヤネ](https://chat.openai.com/g/g-534J499AZ-ao-kong-ayane)
 	- [黒見セリカ](https://chat.openai.com/g/g-hjQRz87Zv-hei-jian-serika)
  	- [十六夜ノノミ](https://chat.openai.com/g/g-IFYA5Eq6L-shi-liu-ye-nonomi)
 - アリウス分校
