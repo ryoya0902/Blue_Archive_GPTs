@@ -53,6 +53,7 @@
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
+ 	- [小塗マキ](https://chat.openai.com/g/g-P3AR4qsfg-xiao-tu-maki)
 	- [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
 - レッドウィンター連邦学園
 	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
