@@ -50,6 +50,7 @@
 	- [杏山カズサ](https://chat.openai.com/g/g-bCIYCNpyf-xing-shan-kazusa)
 	- [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
  	- [栗村アイリ](https://chat.openai.com/g/g-tlXbwzyAp-li-cun-airi)
+  	- [守月スズミ](https://chat.openai.com/g/g-U8Z0XMLuH-shou-yue-suzumi)
  	- [伊原木ヨシミ](https://chat.openai.com/g/g-2ew4j5VNH-yi-yuan-mu-yosimi)
 - 百鬼夜行連合学院
 	- [桑上カホ](https://chat.openai.com/g/g-wWkXHdIEP-sang-shang-kaho)
