@@ -12,6 +12,7 @@
 	- [錠前サオリ](https://chat.openai.com/g/g-m7XHgQ56X-ding-qian-saori)
  	- [秤アツコ](https://chat.openai.com/g/g-2f1pMCeU7-cheng-atuko)
   	- [槌永ヒヨリ](https://chat.openai.com/g/g-PccJI3BhX-chui-yong-hiyori)
+  	- [戒野ミサキ](https://chat.openai.com/g/g-NoaYVTERB-jie-ye-misaki)
 - ヴァルキューレ警察学校
 	- [合歓垣フブキ](https://chat.openai.com/g/g-Dmn2MIPCS-he-huan-yuan-hubuki) 
 - ゲヘナ学園
