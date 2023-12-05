@@ -40,6 +40,7 @@
 	- [杏山カズサ](https://chat.openai.com/g/g-bCIYCNpyf-xing-shan-kazusa)
 	- [宇沢レイサ](https://chat.openai.com/g/g-R0WQ2HAx5-yu-ze-reisa)
 - 百鬼夜行連合学院
+	- [桑上カホ](https://chat.openai.com/g/g-wWkXHdIEP-sang-shang-kaho)
 	- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
  	- [千鳥ミチル](https://chat.openai.com/g/g-8zCvVchxl-qian-niao-mitiru)
