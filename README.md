@@ -38,6 +38,7 @@
 	- [春原ココナ](https://chat.openai.com/g/g-KoiKSE77a-chun-yuan-kokona)
  	- [春原シュン](https://chat.openai.com/g/g-O0Gc13xMK-chun-yuan-siyun)
 	- [春原シュン（幼女）](https://chat.openai.com/g/g-PLvFWwkVC-chun-yuan-siyun)
+ 	- [薬子サヤ](https://chat.openai.com/g/g-alZaQoRz4-yao-zi-saya)
 - トリニティ総合学園
 	- [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
  	- [桐藤ナギサ](https://chat.openai.com/g/g-T6jjROWGb-tong-teng-nagisa)
