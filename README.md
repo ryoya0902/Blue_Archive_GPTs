@@ -10,6 +10,7 @@
  	- [十六夜ノノミ](https://chat.openai.com/g/g-IFYA5Eq6L-shi-liu-ye-nonomi)
 - アリウス分校
 	- [錠前サオリ](https://chat.openai.com/g/g-m7XHgQ56X-ding-qian-saori)
+ 	- [秤アツコ](https://chat.openai.com/g/g-2f1pMCeU7-cheng-atuko)
 - ヴァルキューレ警察学校
 	- [合歓垣フブキ](https://chat.openai.com/g/g-Dmn2MIPCS-he-huan-yuan-hubuki) 
 - ゲヘナ学園
