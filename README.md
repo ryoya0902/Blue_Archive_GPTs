@@ -60,6 +60,7 @@
 - 百鬼夜行連合学院
 	- [桑上カホ](https://chat.openai.com/g/g-wWkXHdIEP-sang-shang-kaho)
 	- [和楽チセ](https://chat.openai.com/g/g-DqW7kPMhl-he-le-tise)
+ 	- [桐生キキョウ](https://chat.openai.com/g/g-dX9SmTHLy-tong-sheng-kikiyou)
  	- [河和シズコ](https://chat.openai.com/g/g-1sHLqhzPW-he-he-sizuko)
 	- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
  	- [大野ツクヨ](https://chat.openai.com/g/g-geqnK1si2-da-ye-tukuyo)
