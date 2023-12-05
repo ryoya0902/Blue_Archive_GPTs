@@ -53,6 +53,7 @@
 	- [花岡ユズ](https://chat.openai.com/g/g-EauHEQnl2-hua-gang-yuzu)
 	- [天童アリス](https://chat.openai.com/g/g-WTrM167Sz-tian-tong-arisu)
 	- [才羽ミドリ](https://chat.openai.com/g/g-kMIDdIlMc-cai-yu-midori)
+ 	- [美甘ネル](https://chat.openai.com/g/g-a9xKp5MV7-mei-gan-neru)
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
