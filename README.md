@@ -15,6 +15,7 @@
   	- [戒野ミサキ](https://chat.openai.com/g/g-NoaYVTERB-jie-ye-misaki)
 - ヴァルキューレ警察学校
 	- [尾刃カンナ](https://chat.openai.com/g/g-a6SGloBDA-wei-ren-kanna)
+ 	- [中務キリノ](https://chat.openai.com/g/g-G1M3J0kcl-zhong-wu-kirino)
 	- [合歓垣フブキ](https://chat.openai.com/g/g-Dmn2MIPCS-he-huan-yuan-hubuki) 
 - ゲヘナ学園
 	- [棗イロハ](https://chat.openai.com/g/g-wv0MWaMJo-zao-iroha)
