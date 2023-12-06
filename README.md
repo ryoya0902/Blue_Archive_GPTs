@@ -94,6 +94,7 @@
   	- [室笠アカネ](https://chat.openai.com/g/g-bcj0WEwZe-shi-li-akane)
   	- [一之瀬アスナ](https://chat.openai.com/g/g-ffKyWzvt2-yi-zhi-lai-asuna)
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
+ 	- [飛鳥馬トキ](https://chat.openai.com/g/g-gOgUh049y-fei-niao-ma-toki)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
  	- [白石ウタハ](https://chat.openai.com/g/g-RLeFTlpiK-bai-shi-utaha)
