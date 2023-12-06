@@ -85,6 +85,7 @@
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
+ 	- [各務チヒロ](https://chat.openai.com/g/g-9RjeabAe4-ge-wu-tihiro)
  	- [小塗マキ](https://chat.openai.com/g/g-P3AR4qsfg-xiao-tu-maki)
   	- [小鈎ハレ](https://chat.openai.com/g/g-Oz26TONPl-xiao-gou-hare)
   	- [音瀬コタマ](https://chat.openai.com/g/g-Uk3U6bd5c-yin-lai-kotama)
