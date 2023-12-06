@@ -112,6 +112,7 @@
   	- [天見ノドカ](https://chat.openai.com/g/g-zXUoSQ4oM-tian-jian-nodoka)
  	- [秋泉モミジ](https://chat.openai.com/g/g-iFtS4MmpN-qiu-quan-momizi)
   	- [安守ミノリ](https://chat.openai.com/g/g-S7Qu2kjqf-an-shou-minori)
+  	- [姫木メル](https://chat.openai.com/g/g-IZKBpgGi2-ji-mu-meru)
 - SRT特殊学園
 	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
  	- [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
