@@ -45,6 +45,7 @@
 - トリニティ総合学園
 	- [聖園ミカ](https://chat.openai.com/g/g-BvoSGLDLH-sheng-yuan-mika)
  	- [桐藤ナギサ](https://chat.openai.com/g/g-T6jjROWGb-tong-teng-nagisa)
+  	- [剣先ツルギ](https://chat.openai.com/g/g-TxcinMigp-jian-xian-turugi)
   	- [静山マシロ](https://chat.openai.com/g/g-5rRmZGH5J-jing-shan-masiro)
   	- [羽川ハスミ](https://chat.openai.com/g/g-Fb8lg9mZ2-yu-chuan-hasumi)
   	- [若葉ヒナタ](https://chat.openai.com/g/g-jhwfXAgNY-ruo-xie-hinata)
