@@ -100,7 +100,8 @@
 	- [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
  	- [和泉元エイミ](https://chat.openai.com/g/g-wAkt9BJqu-he-quan-yuan-eimi)
 - レッドウィンター連邦学園
-	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
+	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino)
+ 	- [秋泉モミジ](https://chat.openai.com/g/g-iFtS4MmpN-qiu-quan-momizi)
 - SRT特殊学園
 	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
  	- [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
