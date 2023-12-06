@@ -28,6 +28,7 @@
   	- [伊草ハルカ](https://chat.openai.com/g/g-VgtfgscSB-yi-cao-haruka)
 	- [浅黄ムツキ](https://chat.openai.com/g/g-S4USVcz2v-qian-huang-mutuki)
  	- [愛清フウカ](https://chat.openai.com/g/g-2v0W0p8Gm-ai-qing-huuka)
+  	- [牛牧ジュリ](https://chat.openai.com/g/g-S6RJnqniy-niu-mu-ziyuri)
   	- [黒舘ハルナ](https://chat.openai.com/g/g-62hvYxUNv-hei-guan-haruna)
   	- [獅子堂イズミ](https://chat.openai.com/g/g-PkDnhL72W-shi-zi-tang-izumi)
   	- [鰐渕アカリ](https://chat.openai.com/g/g-qRfepkELh-e-yuan-akari)
