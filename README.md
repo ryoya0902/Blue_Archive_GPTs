@@ -96,7 +96,7 @@
 - レッドウィンター連邦学園
 	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
 - SRT特殊学園
-    	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
-    	- [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
-    	- [風倉モエ](https://chat.openai.com/g/g-R3pSjbb65-feng-cang-moe)
-    	- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
+	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
+ 	- [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
+  	- [風倉モエ](https://chat.openai.com/g/g-R3pSjbb65-feng-cang-moe)
+  	- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
