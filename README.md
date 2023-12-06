@@ -56,6 +56,7 @@
 	- [阿慈谷ヒフミ](https://chat.openai.com/g/g-sHvwwXlD0-a-ci-gu-hihumi)
 	- [白州アズサ](https://chat.openai.com/g/g-pT7eY62W3-bai-zhou-azusa)
 	- [下江コハル](https://chat.openai.com/g/g-Km2wmW0Px-xia-jiang-koharu)
+ 	- [浦和ハナコ](https://chat.openai.com/g/g-IaF72MtvM-pu-he-hanako)
 	- [浦和ハナコ（水着）](https://chat.openai.com/g/g-Kmh6ec7Ox-pu-he-hanako)
  	- [古関ウイ](https://chat.openai.com/g/g-Ye06CxB2y-gu-guan-ui)
   	- [円堂シミコ](https://chat.openai.com/g/g-TCe9ZeBcJ-yuan-tang-simiko)
