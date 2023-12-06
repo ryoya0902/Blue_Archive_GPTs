@@ -47,6 +47,7 @@
  	- [桐藤ナギサ](https://chat.openai.com/g/g-T6jjROWGb-tong-teng-nagisa)
   	- [静山マシロ](https://chat.openai.com/g/g-5rRmZGH5J-jing-shan-masiro)
   	- [羽川ハスミ](https://chat.openai.com/g/g-Fb8lg9mZ2-yu-chuan-hasumi)
+  	- [若葉ヒナタ](https://chat.openai.com/g/g-jhwfXAgNY-ruo-xie-hinata)
   	- [仲正イチカ](https://chat.openai.com/g/g-hgPQVrfWY-zhong-zheng-itika)
 	- [伊落マリー](https://chat.openai.com/g/g-h65yt5S0w-yi-luo-mari)
 	- [阿慈谷ヒフミ](https://chat.openai.com/g/g-sHvwwXlD0-a-ci-gu-hihumi)
