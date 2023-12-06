@@ -101,6 +101,7 @@
  	- [和泉元エイミ](https://chat.openai.com/g/g-wAkt9BJqu-he-quan-yuan-eimi)
 - レッドウィンター連邦学園
 	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino)
+ 	- [間宵シグレ](https://chat.openai.com/g/g-KUMQhcWnI-jian-xiao-sigure)
  	- [秋泉モミジ](https://chat.openai.com/g/g-iFtS4MmpN-qiu-quan-momizi)
 - SRT特殊学園
 	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
