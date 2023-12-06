@@ -103,6 +103,7 @@
  	- [和泉元エイミ](https://chat.openai.com/g/g-wAkt9BJqu-he-quan-yuan-eimi)
 - レッドウィンター連邦学園
 	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino)
+ 	- [池倉マリナ](https://chat.openai.com/g/g-5RVZzv9NO-chi-cang-marina)
  	- [佐城トモエ](https://chat.openai.com/g/g-frxyGDkU2-zuo-cheng-tomoe)
  	- [間宵シグレ](https://chat.openai.com/g/g-KUMQhcWnI-jian-xiao-sigure)
   	- [天見ノドカ](https://chat.openai.com/g/g-zXUoSQ4oM-tian-jian-nodoka)
