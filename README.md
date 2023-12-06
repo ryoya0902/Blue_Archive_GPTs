@@ -92,6 +92,7 @@
  	- [小塗マキ](https://chat.openai.com/g/g-P3AR4qsfg-xiao-tu-maki)
   	- [小鈎ハレ](https://chat.openai.com/g/g-Oz26TONPl-xiao-gou-hare)
   	- [音瀬コタマ](https://chat.openai.com/g/g-Uk3U6bd5c-yin-lai-kotama)
+  	- [乙花スミレ](https://chat.openai.com/g/g-0U6NBE9Ri-yi-hua-sumire)
 	- [明星ヒマリ](https://chat.openai.com/g/g-Tcplj9N0X-ming-xing-himari)
  	- [和泉元エイミ](https://chat.openai.com/g/g-wAkt9BJqu-he-quan-yuan-eimi)
 - レッドウィンター連邦学園
