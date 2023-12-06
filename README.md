@@ -86,6 +86,7 @@
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
+ 	- [豊見コトリ](https://chat.openai.com/g/g-1uOsIOIyQ-li-jian-kotori)
  	- [各務チヒロ](https://chat.openai.com/g/g-9RjeabAe4-ge-wu-tihiro)
  	- [小塗マキ](https://chat.openai.com/g/g-P3AR4qsfg-xiao-tu-maki)
   	- [小鈎ハレ](https://chat.openai.com/g/g-Oz26TONPl-xiao-gou-hare)
@@ -95,7 +96,7 @@
 - レッドウィンター連邦学園
 	- [連河チェリノ](https://chat.openai.com/g/g-5UpfT0WOQ-lian-he-tierino) 
 - SRT特殊学園
-    - [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
-    - [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
-    - [風倉モエ](https://chat.openai.com/g/g-R3pSjbb65-feng-cang-moe)
-    - [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
+    	- [空井サキ](https://chat.openai.com/g/g-i5rwCRoR7-kong-jing-saki)
+    	- [月雪ミヤコ](https://chat.openai.com/g/g-aMzMNGH7J-yue-xue-miyako)
+    	- [風倉モエ](https://chat.openai.com/g/g-R3pSjbb65-feng-cang-moe)
+    	- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
