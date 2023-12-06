@@ -82,6 +82,7 @@
  	- [美甘ネル](https://chat.openai.com/g/g-a9xKp5MV7-mei-gan-neru)
   	- [角楯カリン](https://chat.openai.com/g/g-hFOMFx0Sb-jiao-shun-karin)
   	- [室笠アカネ](https://chat.openai.com/g/g-bcj0WEwZe-shi-li-akane)
+  	- [一之瀬アスナ](https://chat.openai.com/g/g-ffKyWzvt2-yi-zhi-lai-asuna)
 	- [才羽モモイ](https://chat.openai.com/g/g-5KodNwSuG-cai-yu-momoi)
 	- [飛鳥馬トキ（バニーガール）](https://chat.openai.com/g/g-vbFA9RV8C-fei-niao-ma-toki)
 	- [猫塚ヒビキ](https://chat.openai.com/g/g-NdI0LUUq9-mao-zhong-hibiki)
