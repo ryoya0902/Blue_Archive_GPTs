@@ -163,4 +163,4 @@ Each model is customized according to dialogues from the game.
   		- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
 
 ### Example
-<img alt="example1" src="examples/example1.png" width="400">
+<img alt="example1" src="examples/example1.png" width="450">
