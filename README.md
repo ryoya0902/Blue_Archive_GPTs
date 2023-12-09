@@ -162,5 +162,10 @@ Each model is customized according to dialogues from the game.
   		- [風倉モエ](https://chat.openai.com/g/g-R3pSjbb65-feng-cang-moe)
   		- [霞沢ミユ](https://chat.openai.com/g/g-XUaNnRFeF-xia-ze-miyu)
 
-### Example
-<img alt="example1" src="examples/example1.png" width="450">
+### Examples
+- Example1 : 麺屋 聖   
+<img alt="example1" src="examples/example1.png" width="300">
+- Example2 : チームラボ ボタニカルガーデン 大阪  
+<img alt="example2" src="examples/example2.png" width="300">
+- Example3 : アートアクアリウム 美術館 GINZA 銀座三越   
+<img alt="example3" src="examples/example3.png" width="300">
