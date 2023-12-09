@@ -1,7 +1,7 @@
 ## Blue Archive GPTs
 This is a repository containing ChatGPT models of students from Blue Archive.  
 Each model is customized according to dialogues from the game.
-### 生徒（学校別）
+### Students by School  
 - アビドス高等学校
 	- 対策委員会
 		- [小鳥遊ホシノ](https://chat.openai.com/g/g-JxqrnLyXl-xiao-niao-you-hosino)
