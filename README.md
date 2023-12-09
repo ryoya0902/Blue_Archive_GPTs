@@ -1,6 +1,6 @@
 ## Blue Archive GPTs
-このリポジトリはブルーアーカイブの生徒のGPTをまとめたリポジトリです。  
-各GPTはゲーム内のセリフをインストラクションとして与えています。
+This is a repository containing ChatGPT models of students from Blue Archive.
+Each model is customized according to dialogues from the game.
 ### 生徒（学校別）
 - アビドス高等学校
 	- 対策委員会
