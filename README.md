@@ -24,6 +24,7 @@ Each model is customized according to dialogues from the game.
 - ゲヘナ学園
 	- 万魔殿
 		- [棗イロハ](https://chat.openai.com/g/g-wv0MWaMJo-zao-iroha)
+  		- [丹花イブキ](https://chat.openai.com/g/g-cUA4ecimh-dan-hua-ibuki)
   	- 風紀委員会
  		- [空崎ヒナ](https://chat.openai.com/g/g-1m9VDhb2s-kong-qi-hina)
 		- [銀鏡イオリ](https://chat.openai.com/g/g-mthmtSed2-yin-jing-iori)
