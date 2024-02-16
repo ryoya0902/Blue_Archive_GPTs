@@ -23,6 +23,7 @@ Each model is customized according to dialogues from the game.
 		- [合歓垣フブキ](https://chat.openai.com/g/g-Dmn2MIPCS-he-huan-yuan-hubuki) 
 - ゲヘナ学園
 	- 万魔殿
+ 		- [羽沼マコト](https://chat.openai.com/g/g-CUhtPt56h-yu-zhao-makoto)
 		- [棗イロハ](https://chat.openai.com/g/g-wv0MWaMJo-zao-iroha)
   		- [丹花イブキ](https://chat.openai.com/g/g-cUA4ecimh-dan-hua-ibuki)
   	- 風紀委員会
