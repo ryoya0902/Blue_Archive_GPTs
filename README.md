@@ -104,6 +104,7 @@ Each model is customized according to dialogues from the game.
 	- お祭り運営委員会
   		- [河和シズコ](https://chat.openai.com/g/g-1sHLqhzPW-he-he-sizuko)
   		- [朝比奈フィーナ](https://chat.openai.com/g/g-0pcywu7Dx-zhao-bi-nai-huina)
+    	- [里浜ウミカ](https://chat.openai.com/g/g-9x3qXoWzi-li-bang-umika)
 	- 忍術研究部
   		- [久田イズナ](https://chat.openai.com/g/g-0aFTSJNBt-jiu-tian-izuna)
  		- [大野ツクヨ](https://chat.openai.com/g/g-geqnK1si2-da-ye-tukuyo)
